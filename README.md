@@ -6,4 +6,4 @@
 5-Dependency Injection <br> 
 6-Coil <br>
 
-![Ekran Resmi 2024-02-21 14 48 06](https://github.com/aliyayman/CleanMovieApp/assets/80852905/a04ce329-3ba4-4912-b4cc-f02edd4d5ac7)
+![Ekran Resmi 2024-02-21 14 55 32](https://github.com/aliyayman/CleanMovieApp/assets/80852905/0e910a91-ef0b-4545-bbac-77c7232046e7)
