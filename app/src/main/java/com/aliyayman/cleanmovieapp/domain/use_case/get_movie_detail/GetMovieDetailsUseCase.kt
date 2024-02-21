@@ -1,8 +1,6 @@
-package com.aliyayman.cleanmovieapp.domain.use_case.get_movies
+package com.aliyayman.cleanmovieapp.domain.use_case.get_movie_detail
 
 import com.aliyayman.cleanmovieapp.data.remote.dto.toMovieDetail
-import com.aliyayman.cleanmovieapp.data.remote.dto.toMovieList
-import com.aliyayman.cleanmovieapp.domain.model.Movie
 import com.aliyayman.cleanmovieapp.domain.model.MovieDetail
 import com.aliyayman.cleanmovieapp.domain.repository.MovieRepository
 import com.aliyayman.cleanmovieapp.util.Resource

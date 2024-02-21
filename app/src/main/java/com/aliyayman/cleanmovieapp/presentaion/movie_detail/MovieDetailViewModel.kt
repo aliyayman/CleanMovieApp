@@ -5,7 +5,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.aliyayman.cleanmovieapp.domain.use_case.get_movies.GetMovieDetailsUseCase
+import com.aliyayman.cleanmovieapp.domain.use_case.get_movie_detail.GetMovieDetailsUseCase
 import com.aliyayman.cleanmovieapp.util.Constants.IMDB_ID
 import com.aliyayman.cleanmovieapp.util.Resource
 import dagger.hilt.android.lifecycle.HiltViewModel
